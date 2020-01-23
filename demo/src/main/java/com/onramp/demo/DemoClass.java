@@ -12,6 +12,5 @@ public class DemoClass {
         System.out.println("Hello4");
         System.out.println("Hello5");
         System.out.println("Hello6");
-        System.out.println("Hello7");
     }
 }
